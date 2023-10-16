@@ -1,0 +1,121 @@
+Pregunta #1: ¿Tu personaje tiene Verde?: Si
+Pregunta #2: ¿Tu personaje tiene Amarillo?: No
+Pregunta #3: ¿Tu personaje lleva armadura?: No
+Pregunta #4: ¿Tu personaje tiene Negro?: No
+Pregunta #5: ¿Tu personaje tiene Rojo?: No
+Pregunta #6: ¿Tu personaje tiene Azul?: No
+Pregunta #7: ¿Tu personaje es millonario?: No
+Pregunta #8: ¿Tu personaje es extraterrestre?: No
+Pregunta #9: ¿Tu personaje tiene superpoderes?: Si
+Pregunta #10: ¿Tu personaje vuela?: No
+Pregunta #1: ¿Tu personaje tiene Azul?: Si
+Pregunta #2: ¿Tu personaje es millonario?: Si
+Pregunta #3: ¿Tu personaje tiene Verde?: Si
+Pregunta #4: ¿Tu personaje tiene superpoderes?: Si
+Pregunta #5: ¿Tu personaje lleva armadura?: Si
+Pregunta #6: ¿Tu personaje vuela?: Si
+Pregunta #7: ¿Tu personaje tiene Negro?: Si
+Pregunta #8: ¿Tu personaje tiene Amarillo?: Si
+Pregunta #9: ¿Tu personaje es extraterrestre?: Si
+Pregunta #10: ¿Tu personaje tiene Rojo?: Si
+Pregunta #1: ¿Tu personaje tiene Azul?: Si
+Pregunta #2: ¿Tu personaje vuela?: Si
+Pregunta #3: ¿Tu personaje es extraterrestre?: Si
+Pregunta #4: ¿Tu personaje es millonario?: Si
+Pregunta #5: ¿Tu personaje tiene Rojo?: Si
+Pregunta #6: ¿Tu personaje tiene Amarillo?: Si
+Pregunta #7: ¿Tu personaje lleva armadura?: Si
+Pregunta #8: ¿Tu personaje tiene Negro?: Si
+Pregunta #9: ¿Tu personaje tiene Verde?: Si
+Pregunta #10: ¿Tu personaje tiene superpoderes?: Si
+Pregunta #1: ¿Tu personaje tiene Azul?: Si
+Pregunta #2: ¿Tu personaje tiene Verde?: Si
+Pregunta #3: ¿Tu personaje tiene Negro?: Si
+Pregunta #4: ¿Tu personaje tiene Rojo?: Si
+Pregunta #5: ¿Tu personaje lleva armadura?: Si
+Pregunta #6: ¿Tu personaje es millonario?: Si
+Pregunta #7: ¿Tu personaje vuela?: Si
+Pregunta #8: ¿Tu personaje tiene superpoderes?: Si
+Pregunta #9: ¿Tu personaje es extraterrestre?: Si
+Pregunta #10: ¿Tu personaje tiene Amarillo?: Si
+Pregunta #1: ¿Tu personaje tiene Amarillo?: Si
+Pregunta #2: ¿Tu personaje tiene Negro?: No
+Pregunta #3: ¿Tu personaje es millonario?: Si
+Pregunta #4: ¿Tu personaje tiene Azul?: No
+Pregunta #5: ¿Tu personaje tiene Verde?: No
+Pregunta #6: ¿Tu personaje tiene superpoderes?: No
+Pregunta #7: ¿Tu personaje tiene Rojo?: Si
+Pregunta #8: ¿Tu personaje lleva armadura?: Si
+Pregunta #9: ¿Tu personaje vuela?: Si
+Pregunta #10: ¿Tu personaje es extraterrestre?: No
+Pregunta #1: ¿Tu personaje lleva armadura?: Si
+Pregunta #2: ¿Tu personaje tiene Azul?: Si
+Pregunta #3: ¿Tu personaje tiene superpoderes?: No
+Pregunta #4: ¿Tu personaje tiene Amarillo?: No
+Pregunta #5: ¿Tu personaje es extraterrestre?: No
+Pregunta #6: ¿Tu personaje tiene Rojo?: No
+Pregunta #7: ¿Tu personaje tiene Verde?: Si
+Pregunta #8: ¿Tu personaje vuela?: No
+Pregunta #9: ¿Tu personaje tiene Negro?: Si
+Pregunta #10: ¿Tu personaje es millonario?: Si
+Pregunta #1: ¿Tu personaje tiene Negro?: Si
+Pregunta #2: ¿Tu personaje vuela?: Si
+Pregunta #3: ¿Tu personaje lleva armadura?: Si
+Pregunta #4: ¿Tu personaje tiene Azul?: Si
+Pregunta #5: ¿Tu personaje tiene Rojo?: Si
+Pregunta #6: ¿Tu personaje tiene Amarillo?: Si
+Pregunta #7: ¿Tu personaje es extraterrestre?: Si
+Pregunta #8: ¿Tu personaje tiene superpoderes?: Si
+Pregunta #9: ¿Tu personaje es millonario?: Si
+Pregunta #1: ¿Tu personaje tiene superpoderes?: No
+Pregunta #2: ¿Tu personaje vuela?: No
+Pregunta #3: ¿Tu personaje tiene Rojo?: No
+Pregunta #4: ¿Tu personaje tiene Negro?: No
+Pregunta #5: ¿Tu personaje tiene Amarillo?: Si
+Pregunta #6: ¿Tu personaje es extraterrestre?: No
+Pregunta #7: ¿Tu personaje es millonario?: Si
+Pregunta #8: ¿Tu personaje tiene Azul?: No
+Pregunta #9: ¿Tu personaje lleva armadura?: Si
+Pregunta #10: ¿Tu personaje tiene Verde?: No
+Pregunta #1: ¿Tu personaje es millonario?: No
+Pregunta #1: ¿Tu personaje tiene Negro?: Si
+Pregunta #1: ¿Tu personaje es extraterrestre?: Si
+Pregunta #2: ¿Tu personaje tiene Verde?: Si
+Pregunta #3: ¿Tu personaje tiene superpoderes?: No
+Pregunta #4: ¿Tu personaje tiene Amarillo?: Si
+Pregunta #5: ¿Tu personaje tiene Negro?: No
+Pregunta #6: ¿Tu personaje vuela?: Si
+Pregunta #7: ¿Tu personaje lleva armadura?: No
+Pregunta #8: ¿Tu personaje tiene Rojo?: Si
+Pregunta #9: ¿Tu personaje es millonario?: No
+Pregunta #10: ¿Tu personaje tiene Azul?: Si
+Pregunta #1: ¿Tu personaje vuela?: No
+Pregunta #2: ¿Tu personaje es extraterrestre?: No
+Pregunta #3: ¿Tu personaje tiene Amarillo?: Si
+Pregunta #4: ¿Tu personaje tiene superpoderes?: No
+Pregunta #5: ¿Tu personaje es millonario?: No
+Pregunta #6: ¿Tu personaje tiene Azul?: No
+Pregunta #7: ¿Tu personaje lleva armadura?: No
+Pregunta #8: ¿Tu personaje tiene Rojo?: Si
+Pregunta #9: ¿Tu personaje tiene Negro?: No
+Pregunta #10: ¿Tu personaje tiene Verde?: No
+Pregunta #1: ¿Tu personaje tiene superpoderes?: Si
+Pregunta #2: ¿Tu personaje tiene Negro?: Si
+Pregunta #3: ¿Tu personaje vuela?: No
+Pregunta #4: ¿Tu personaje tiene Amarillo?: No
+Pregunta #5: ¿Tu personaje tiene Verde?: No
+Pregunta #6: ¿Tu personaje lleva armadura?: No
+Pregunta #7: ¿Tu personaje es extraterrestre?: Si
+Pregunta #8: ¿Tu personaje tiene Rojo?: No
+Pregunta #9: ¿Tu personaje tiene Azul?: Si
+Pregunta #10: ¿Tu personaje es millonario?: Si
+Pregunta #1: ¿Tu personaje tiene Amarillo?: No
+Pregunta #2: ¿Tu personaje tiene Rojo?: Si
+Pregunta #3: ¿Tu personaje tiene Verde?: Si
+Pregunta #4: ¿Tu personaje tiene Azul?: Si
+Pregunta #5: ¿Tu personaje tiene Negro?: No
+Pregunta #6: ¿Tu personaje es extraterrestre?: Si
+Pregunta #7: ¿Tu personaje lleva armadura?: No
+Pregunta #8: ¿Tu personaje tiene superpoderes?: Si
+Pregunta #9: ¿Tu personaje es millonario?: No
+Pregunta #10: ¿Tu personaje vuela?: Si

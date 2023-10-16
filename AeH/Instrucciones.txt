@@ -1,0 +1,11 @@
+
+
+
+Bienvenido a Adivina el héroe
+
+La dinámica es la siguiente:
+Te presentaré algunas preguntas sobre superhéroes.
+Debes memorizar uno de ellos recordando siempre sus características, y yo 
+trataré de adivinar mediante preguntas en cuál estás pensando.
+Si tu respuesta es afirmativa, haz clic en 'Si', si es negativa, 
+haz clic en 'No'.

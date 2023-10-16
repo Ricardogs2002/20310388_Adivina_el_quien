@@ -1,0 +1,10 @@
+¿Tu personaje tiene Amarillo?
+¿Tu personaje tiene Rojo?
+¿Tu personaje tiene Verde?
+¿Tu personaje tiene Azul?
+¿Tu personaje tiene Negro?
+¿Tu personaje es extraterrestre?
+¿Tu personaje lleva armadura?
+¿Tu personaje tiene superpoderes?
+¿Tu personaje es millonario?
+¿Tu personaje vuela?
